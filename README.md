@@ -1,2 +1,3 @@
 # PS-CODE
-python and c code 
+PROBLEM SOLVING CODES
+
